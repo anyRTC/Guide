@@ -16,5 +16,3 @@
 
 ## [Token 生成工具](https://github.com/anyRTC/Tools/tree/master/DynamicKey/ARDynamicKey)
 应用打开权限密匙功能，同时使用 App ID 和 Token 鉴权.
-
-anyRTC SDK 以及Demo引导
