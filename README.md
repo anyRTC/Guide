@@ -14,8 +14,9 @@
 #### [Android-RTM-SDK](https://github.com/anyRTC/ArRTM-Android)
 
 
-## [Token 生成工具](https://github.com/anyRTC/Tools/tree/master/DynamicKey/ARDynamicKey)
+## Token 生成工具
 应用打开权限密匙功能，同时使用 App ID 和 Token 鉴权.
+[代码地址]（https://github.com/anyRTC/Tools/tree/master/DynamicKey/ARDynamicKey）
 
 ## 呼叫一对一，一对多开源demo
 iOS,Android,web端源码
