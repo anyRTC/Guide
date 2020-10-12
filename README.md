@@ -22,7 +22,7 @@
 ## APICloud RTC SDK
 基于anyRTC RTC SDK 封装了APICloud库，支持iOS、Android.
 
-[SDK以及demo地址]（https://github.com/anyRTC/ARtcSdkForAPICloud）
+[SDK以及demo地址](https://github.com/anyRTC/ARtcSdkForAPICloud）
 
 ## 呼叫一对一，一对多开源demo
 iOS,Android,web端源码
